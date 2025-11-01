@@ -13,16 +13,16 @@
     en el mismo colegio y planeo terminar allí.</p>
 
 
-<hr border="4" color="Blue">
+<hr border="2" color="Blue">
 
   <h2> <font color="#b30059">🎨 Hobbies</font></h2>
   <ul>
     <li>⛸Patinar</li>
-    <li>🎀manualidades</li>
+    <li>🎀Hacer manualidades</li>
     <li>🎶escuchar música</li>
   </ul>
 
-  <hr border="4" color="Blue">
+<hr border="2" color="Blue">
 
   <h2> <font color="#b30059">🏆 Logros personales</font></h2>
   <ol>
@@ -31,5 +31,6 @@
     <li>🔓 vencer algunos miedos personales.</li>
   </ol>
     </font>
+    
 </body>
 </html>
