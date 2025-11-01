@@ -1,6 +1,5 @@
 <HTML>
 <head>
-  <title>Biografía de Mariana Duran</title>
 </head>
 <body style="background-color:#d6a3eb">
 
